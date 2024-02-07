@@ -1,18 +1,18 @@
+
 # Actividad/Tarea1
 
 # Titulo de App:
 
-Analizando layouts
+Utilización de Widgets más comunes
 
 # Lo que me costó más trabajo
 
-Me sigue costando en acomodar bien las filas/columnas para que estuviera con la posición correcta
+Estructurar los widgets para que estén en la posición que se deseaba y agregar color
 
 # Lo que aprendí
 
-Seguí practicando en estructurar cada columna/fila y en anexar información a cada apartado.
+Aprendí en cómo acomodar de la manera adecuada los widgets
 
 # Screenshot de la App
 
-
-![tarea2](https://github.com/SergioAlejandroAriasIbarra/ActividadesPAM/assets/80371525/251bac20-1980-4141-87f4-647d4c561d00)
+<img width="1470" alt="image" src="https://github.com/SergioAlejandroAriasIbarra/ActividadesPAM/assets/80371525/adcc26b6-648e-401b-8207-ca9277825b4b">
